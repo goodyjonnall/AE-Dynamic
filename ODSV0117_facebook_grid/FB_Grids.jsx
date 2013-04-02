@@ -1,0 +1,1 @@
+﻿for (i=0; i < 6; i++) {    activeDocument.guides.add(Direction.HORIZONTAL, UnitValue(((activeDocument.height/5)*i), 'cm'));    activeDocument.guides.add(Direction.VERTICAL, UnitValue(((activeDocument.width/5)*i), 'cm'));};
