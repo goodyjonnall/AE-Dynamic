@@ -1,0 +1,66 @@
+<data>
+	<dataset uniqueIdentifier="1334833613001" name="Outdoor Layout One">
+		<compSettings>
+			<subProjectName>EASV0XXX-Edinburgh-dadTime-10s</subProjectName>
+			<projectNumber>EASV0XXX</projectNumber>
+			<creativeTitle>dadTime</creativeTitle>
+			<location>Edinburgh</location>
+			<compWidth>1920</compWidth>
+			<compHeight>1080</compHeight>
+			<compLength>10</compLength>
+			<compPixel>1</compPixel>
+			<compFPS>25</compFPS>	
+		</compSettings>
+		<boxSettings>
+			<oscarWidth>400</oscarWidth>
+			<oscarHeight>200</oscarHeight>
+			<logoOption>business</logoOption>
+			<logoScale>10</logoScale>
+			<alignmentVertical>top</alignmentVertical>
+			<alignmentHorizontal>left</alignmentHorizontal>
+			<whiskey>150</whiskey>
+			<outerGuides>true</outerGuides>
+			<innerGuides>true</innerGuides>
+			<logoGuides>true</logoGuides>
+		</boxSettings>
+		<textLayout>
+			<textSize>100</textSize>
+			<HSize>100</HSize>
+			<HLineH>100</HLineH>
+			<HPSize>100</HPSize>
+			<HPLineH>100</HPLineH>
+			<SHSize>100</SHSize>
+			<SHLineH>100</SHLineH>
+			<H2BG>100</H2BG>
+			<PLSize>100</PLSize>
+		</textLayout>
+		<textContent>
+			<kind>H</kind>
+			<content>Creative</content>
+			<kind>H</kind>
+			<content>Name</content>
+			<kind>HP</kind>
+			<content>Lots of info here</content>
+			<kind>SH</kind>
+			<content>Where are you going?</content>
+			<kind>DS</kind>
+			<content>Madrid</content>
+			<kind>DT</kind>
+			<content>from</content>
+			<kind>PL</kind>
+			<content>£</content>
+			<kind>PL</kind>
+			<content>29</content>
+			<kind>PL</kind>
+			<content>.99</content>
+			<kind>PL</kind>
+			<content>one way</content>
+			<kind>PL</kind>
+			<content>inc. taxes</content>
+			<kind>T</kind>
+			<content>See our legal team for details</content>
+			<kind>T</kind>
+			<content>they know loads about the law.</content>
+		</textContent>
+	</dataset>
+</data>
