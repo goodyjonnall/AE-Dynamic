@@ -1,4 +1,19 @@
-copyPath = "/Users/tomw/Desktop/Clutter/vccp/0017_EasyJet/021_NewAppVideo/scripts/copy.js";
-switcherCopyPath = "/Users/tomw/Desktop/Clutter/vccp/0017_EasyJet/021_NewAppVideo/scripts/switcher_copy.js";
-switcherImgPath = "/Users/tomw/Desktop/Clutter/vccp/0017_EasyJet/021_NewAppVideo/scripts/switcher_img.js";
-datePath = "/Users/tomw/Desktop/Clutter/vccp/0017_EasyJet/021_NewAppVideo/scripts/date.js";
+// Script Locations
+
+	// Copy Doc
+	copyPath = "/AE-Dynamic/EASV0675_002_production/scripts/copy.js";
+	
+	// Switches Language Copy
+	switcherCopyPath = "/AE-Dynamic/EASV0675_002_production/scripts/switcher_copy.js";
+	
+	// Switches Language AV Layers
+	switcherImgPath = "/AE-Dynamic/EASV0675_002_production/scripts/switcher_img.js";
+	
+	// Outputs Date & Time (String)
+	datePath = "/AE-Dynamic/EASV0675_002_production/scripts/date.js";
+
+
+// After Effects Locations
+
+	//Main Controller
+	var controllerBox = comp("002_Controller").layer("Controller");

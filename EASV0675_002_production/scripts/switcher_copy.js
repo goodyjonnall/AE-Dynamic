@@ -1,7 +1,5 @@
 var langIndex;
 
-var controllerBox = comp("002_Controller").layer("Controller");
-
 var multiLang = 
 controllerBox.effect("EN")("Checkbox") +
 controllerBox.effect("FR")("Checkbox") +

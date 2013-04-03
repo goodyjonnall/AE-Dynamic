@@ -1,6 +1,3 @@
-
-var controllerBox = comp("002_Controller").layer("Controller");
-
 var date = {
         all: "x", 
         string: "x", 
