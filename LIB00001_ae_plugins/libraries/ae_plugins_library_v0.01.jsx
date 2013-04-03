@@ -1,0 +1,1 @@
+﻿var plugins = {    renderQueue: {        clear : undefined // FUNCTION    }};plugins.renderQueue.clear = function () {    while (1 <= app.project.renderQueue.numItems) {        app.project.renderQueue.item(1).remove();    }};

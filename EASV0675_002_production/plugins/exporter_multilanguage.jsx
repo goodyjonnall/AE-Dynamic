@@ -1,1 +1,1 @@
-﻿var plugin = {    locations: {        script: (new File($.fileName)).parent,        projectPath: app.project.file.path,        activeComp: app.project.activeItem    }};    
+﻿#include "../../LIB00001_ae_plugins/libraries/ae_plugins_library_v0.01.jsx";var locations = {        script: (new File($.fileName)).parent,        //projectPath: app.project.file.path,        //activeComp: app.project.activeItem};plugins.renderQueue.clear();
