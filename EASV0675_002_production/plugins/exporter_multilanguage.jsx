@@ -1,0 +1,1 @@
+﻿var plugin = {    locations: {        script: (new File($.fileName)).parent,        projectPath: app.project.file.path,        activeComp: app.project.activeItem    }};    
